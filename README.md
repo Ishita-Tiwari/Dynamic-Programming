@@ -3,12 +3,12 @@ Dynamic programming has always been a little intimidating. So, here are the ques
 
 
 ## Problems
-- [x] Subset Sum Problem
-- [x] Equal Sum Partition Problem
-- [ ] Count Subsets With A Given Sum
-- [ ] Minimum Subset Sum Difference
-- [ ] Count Subsets With Given Difference
-- [ ] Target Sum
+- [x] [Subset Sum Problem](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/1.%20Subset%20Sum%20Problem.py)
+- [x] [Equal Sum Partition Problem](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/2.%20Equal%20Sum%20Partition%20Problem.py)
+- [x] [Count Subsets With A Given Sum](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/3.%20Count%20subset%20with%20given%20sum.py)
+- [x] [Minimum Subset Sum Difference](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/4.%20Minimum%20Subset%20Sum%20Difference.py)
+- [x] [Count Subsets With Given Difference](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/5.%20Count%20subsets%20with%20given%20difference.py)
+- [x] [Target Sum](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/6.%20Target%20Sum.py)
 - [ ] Unbounded Knapsack
 - [ ] Rod Cutting Problem
 - [ ] Coin Change - Maximum Number Of Ways
