@@ -12,8 +12,8 @@ Dynamic programming has always been a little intimidating. So, here are the ques
 - [x] [Unbounded Knapsack](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/7.%20Unbounded%20Knapsack.py)
 - [x] [Rod Cutting Problem](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/8.%20Rod%20Cutting%20Problem.py)
 - [x] [Coin Change - Maximum Number Of Ways](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/9.%20Coin%20Change%20-%20Maximum%20number%20of%20ways.py)
-- [ ] Coin Change - Minimum Number of Coins
-- [ ] Length Of Longest Common Subsequence
-- [ ] Length of Longest Common Substring
+- [x] [Coin Change - Minimum Number of Coins](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/10.%20Coin%20Change%20-%20Min%20number%20of%20coins.py)
+- [x] [Length Of Longest Common Subsequence](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/11.%20LCS.py)
+- [x] [Length of Longest Common Substring](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/12.%20Longest%20Common%20Substring.py)
 - [ ] Longest Common Subsequence
 - [ ] Shortest Common Supersequence
