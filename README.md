@@ -15,5 +15,5 @@ Dynamic programming has always been a little intimidating. So, here are the ques
 - [x] [Coin Change - Minimum Number of Coins](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/10.%20Coin%20Change%20-%20Min%20number%20of%20coins.py)
 - [x] [Length Of Longest Common Subsequence](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/11.%20LCS.py)
 - [x] [Length of Longest Common Substring](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/12.%20Longest%20Common%20Substring.py)
-- [ ] Longest Common Subsequence
-- [ ] Shortest Common Supersequence
+- [x] [Print Longest Common Subsequence](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/13.%20Print%20Longest%20Common%20Subsequence.py)
+- [x] [Shortest Common Supersequence](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/14.%20Shortest%20Common%20SuperSequence.py)
