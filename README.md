@@ -17,3 +17,5 @@ Dynamic programming has always been a little intimidating. So, here are the ques
 - [x] [Length of Longest Common Substring](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/12.%20Longest%20Common%20Substring.py)
 - [x] [Print Longest Common Subsequence](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/13.%20Print%20Longest%20Common%20Subsequence.py)
 - [x] [Shortest Common Supersequence](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/14.%20Shortest%20Common%20SuperSequence.py)
+- [x] [Minimum Number of Insertion and Deletion](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/15.%20Minimum%20Number%20Of%20Insertion%20and%20Deletion.py)
+- [x] [Longest Palindromic Subsequence](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/16.%20Longest%20Palindromic%20Subsequence.py)
