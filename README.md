@@ -21,3 +21,5 @@ Dynamic programming has always been a little intimidating. So, here are the ques
 16. [Longest Palindromic Subsequence](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/16.%20Longest%20Palindromic%20Subsequence.py)
 17. [Minumum Deletion To Make Palindrome](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/17.%20Minumum%20Deletion%20To%20Make%20Palindrome.py)
 18. [Print Shortest Common SuperSequence](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/18.%20Print%20Shortest%20Common%20SuperSequence.py)
+19. [Longest Repeating Subsequence](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/19.%20Longest%20Repeating%20Subsequence.py)
+20. [Sequence Pattern Matching](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/20.%20Sequence%20Pattern%20Matching.py)
