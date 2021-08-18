@@ -23,3 +23,5 @@ Dynamic programming has always been a little intimidating. So, here are the ques
 18. [Print Shortest Common SuperSequence](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/18.%20Print%20Shortest%20Common%20SuperSequence.py)
 19. [Longest Repeating Subsequence](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/19.%20Longest%20Repeating%20Subsequence.py)
 20. [Sequence Pattern Matching](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/20.%20Sequence%20Pattern%20Matching.py)
+21. [Minimum Insertion To Make Palindrome](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/21.%20Minimum%20Insertion%20To%20Make%20Palindrome.py)
+22. [Matrix Chain Multiplication](https://github.com/Ishita-Tiwari/Dynamic-Programming/blob/main/22.%20Matrix%20Chain%20Multiplication.py)
